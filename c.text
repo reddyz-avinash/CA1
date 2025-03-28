@@ -9,4 +9,6 @@ switch (expression) {
     default:
         // Code to execute if no case matches
 }
+case 1:
+{b.tech cse}
 
